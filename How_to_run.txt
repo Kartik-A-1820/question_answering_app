@@ -1,0 +1,30 @@
+####    To run and use the app, follow these steps: ####
+
+
+1. Install the required Python libraries: using requirements.txt { "pip install -r requirements.txt" }
+
+2. Replace the "RR8R97-LPG2PU9P7L" in the code with your own App ID. 
+   visit: " https://developer.wolframalpha.com/portal/myapps/ " to get API_ID.
+
+3. Open the command prompt or terminal and navigate to the directory of the folder containing "app.py".
+
+4. Type the command "python app.py" to run the program.
+
+5. Once the program starts, a window will appear with a  "Ask a question" button.
+
+6. Click on the "Ask a question" button to trigger the audio input.
+
+7. Speak your question clearly into your microphone. The program will transcribe your audio input and get an answer.
+   ( Sometimes it takes little longer to answer, Please don't close the app until displays the question and answer on the GUI.)
+
+8. The program will print the question and answer in the console and display the answer in the GUI window under the "Answer" label.
+
+9. To ask another question, click on the "Ask a question" button again.
+
+10. To exit the program, close the GUI window.
+
+
+
+Note: Please read the "functionalities_limitations.txt" before running, so that you can understand it's limitaions.
+
+

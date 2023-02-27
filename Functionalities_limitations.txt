@@ -1,0 +1,17 @@
+####    The app has the following functionalities:    ####
+
+1. It listens for voice input from the user.
+2. It transcribes the voice input to text using the SpeechRecognition library.
+3. It queries the Wolfram Alpha API with the transcribed text to obtain an answer to the user's question.
+4. It speaks the answer using the text-to-speech engine and displays the answer in a GUI.
+
+
+
+####    The limitations of the app include:   ####
+
+1. It can only provide answers that are available through the Wolfram Alpha API.
+2. The accuracy of the transcribed text is dependent on the quality of the audio input and the performance of the speech recognition engine.
+3. The text-to-speech engine may not always accurately pronounce words.
+
+
+note: Read "How_to_run.txt" to run the app.py correctly.
